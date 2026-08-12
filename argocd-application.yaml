@@ -13,7 +13,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/devhassan65/flask-todo-app.git
-    path: .
+    path: flask-app
     targetRevision: main
     helm:
       valueFiles:
